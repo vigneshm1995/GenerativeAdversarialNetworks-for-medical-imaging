@@ -1,4 +1,5 @@
 # BDIA-Project
+## GANs for medical imaging
 
 ![Screenshot](diagram.png)
 
