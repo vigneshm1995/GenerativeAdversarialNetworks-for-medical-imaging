@@ -13,7 +13,8 @@ In this project, we observe the performance of Generative Adversarial Networks f
 
 https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
-### Steps to run
+## Steps to run
+
 - Run 'Parasitized_images_GAN.ipynb' to create synthetic parasitized images.
 - Run 'Uninfected_images_GAN.ipynb' to create synthetic uinfected images.
 - Synthetic data is automatically saved into zip files 'Parasitized.zip' and 'Uninfected.zip'.
